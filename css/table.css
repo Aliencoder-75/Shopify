@@ -1,0 +1,25 @@
+table {
+	margin:0 auto;
+	width: 960px;
+	text-align: center;
+	border-collapse:separate;
+	border-spacing:0 10px;
+	font-size: 14px;
+	letter-spacing: 0.03em;
+}
+
+th {
+	padding: 25px 35px;
+	font-weight: 200;
+	text-transform: uppercase;
+	background-color: #95A5A6;
+}
+
+td {
+	padding: 15px 20px;
+}
+
+tr {
+	background-color: #ffffff;
+    box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.1);
+}

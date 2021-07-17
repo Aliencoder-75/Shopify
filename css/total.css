@@ -1,0 +1,12 @@
+.total {
+	Background-color:#95A5A6; 
+	color: #fff;
+	text-align: center;
+	padding: 15px 10px;
+	border-radius: 3px;
+	font-weight: 600;
+}
+
+.ckeck_btn {
+	margin-left:70px;
+}
